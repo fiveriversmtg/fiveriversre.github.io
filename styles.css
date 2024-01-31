@@ -1,0 +1,74 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #ecf4f9; /* Light Blue */
+}
+
+header {
+    background-color: #3498db; /* Dark Blue */
+    color: #fff;
+    text-align: center;
+    padding: 1em;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 10px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #fff;
+    font-weight: bold;
+}
+
+.main-content {
+    max-width: 800px;
+    margin: 2em auto;
+    padding: 1em;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.services {
+    border-top: 2px solid #3498db; /* Dark Blue */
+    margin-top: 20px;
+    padding-top: 20px;
+}
+
+.why-choose-us {
+    border-top: 2px solid #3498db; /* Dark Blue */
+    margin-top: 20px;
+    padding-top: 20px;
+}
+
+.call-to-action {
+    margin-top: 20px;
+}
+
+.address {
+     border-top: 2px solid #3498db; /* Dark Blue */
+     margin-top: 20px;
+    padding-top: 20px;
+}
+
+footer {
+    text-align: center;
+    padding: 1em;
+    background-color: #3498db; /* Dark Blue */
+    color: #fff;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+}
