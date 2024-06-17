@@ -21,10 +21,11 @@ body {
 
 /* Header styles */
 header {
-  background-color: #3498db; /* Light blue */
+ /* background-color: #3498db;  Light blue */
   color: #fff;
   padding: 10px 0;
   text-align: center;
+  background-image: url('img_girl.jpg');
 }
 
 header h1 {
