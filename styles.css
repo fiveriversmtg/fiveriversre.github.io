@@ -35,7 +35,7 @@ header h1 {
 /* Navigation styles */
 nav {
   text-align: center;
-  margin-top: 20px;
+  margin-top: 60px;
 }
 
 nav ul {
@@ -61,7 +61,7 @@ nav ul li a:hover {
 
 /* Main content styles */
 main {
-  padding: 20px 0;
+  padding: 60px 0;
 }
 
 /* Footer styles */
