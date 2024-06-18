@@ -23,7 +23,7 @@ body {
 header {
  /* background-color: #3498db;  Light blue */
   color: #fff;
-  padding: 40px 0;
+  padding: 80px 0;
   text-align: center;
   background-image: url("header_background.jpg");
 }
@@ -65,14 +65,15 @@ main {
 }
 
 /* Footer styles */
-footer {
+footer {  
   background-color: #3498db; /* Light blue */
   color: #fff;
   text-align: center;
-  padding: 20px 0;
-  position: fixed;
-  bottom: 0;
+  padding: 10px 0;
+  position: fixed; /* Fixed position */
+  bottom: 0; /* Stick to the bottom */
   width: 100%;
+  margin-top: 20px; /* Adjust margin to prevent overlap */
 }
 
 /* Responsive design */
