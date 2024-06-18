@@ -74,7 +74,7 @@ footer {
   position: fixed; /* Fixed position */
   bottom: 0; /* Stick to the bottom */
   width: 100%;
-  margin-top: 20px; /* Adjust margin to prevent overlap */
+  margin-top: 2px; /* Adjust margin to prevent overlap */
 }
 
 /* Responsive design */
