@@ -16,14 +16,14 @@ body {
 .container {
   max-width: 1200px;
   margin: 0 auto;
-  padding: 60px;
+  padding: 60px 0;
 }
 
 /* Header styles */
 header {
  /* background-color: #3498db;  Light blue */
   color: #fff;
-  padding: 50px 0;
+  padding: 40px 0;
   text-align: center;
   background-image: url("header_background.jpg");
 }
@@ -35,7 +35,7 @@ header h1 {
 /* Navigation styles */
 nav {
   text-align: center;
-  margin-top: 60px;
+  margin-top: 40px 0;
 }
 
 nav ul {
@@ -61,7 +61,7 @@ nav ul li a:hover {
 
 /* Main content styles */
 main {
-  padding: 60px 0;
+  padding: 40px 0;
 }
 
 /* Footer styles */
@@ -69,7 +69,7 @@ footer {
   background-color: #3498db; /* Light blue */
   color: #fff;
   text-align: center;
-  padding: 10px 0;
+  padding: 20px 0;
   position: fixed;
   bottom: 0;
   width: 100%;
@@ -79,6 +79,6 @@ footer {
 @media (max-width: 768px) {
   nav ul li {
     display: block;
-    margin-bottom: 10px;
+    margin-bottom: 40px 0;
   }
 }
