@@ -33,7 +33,7 @@ header {
   padding: 100px 0;
   text-align: right;
   background-image: url("header.jpg");
-  background-size: cover;
+  background-size: auto;
 }
 
 header h1 {
