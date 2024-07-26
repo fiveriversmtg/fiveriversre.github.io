@@ -17,22 +17,16 @@ body {
   max-width: 1200px;
   margin: 0 auto;
   padding: 60px 0;
-  position: absolute;
-  top: 8px;
-  right: 16px;
-  font-size: 18px;
 }
-
-
 
 /* Header styles */
 header {
  /* background-color: #3498db;  Light blue */
   color: #fff;
   padding: 100px 0;
-  text-align: right;
+  text-align: center;
   background-image: url("header.jpg");
-  background-size: auto;
+  background-size: cover;
 }
 
 header h1 {
@@ -41,7 +35,7 @@ header h1 {
 
 /* Navigation styles */
 nav {
-  text-align: right;
+  text-align: center;
   margin-top: 40px 0;
 }
 
@@ -72,14 +66,15 @@ main {
 }
 
 /* Footer styles */
-footer {
+footer {  
   background-color: #3498db; /* Light blue */
   color: #fff;
   text-align: center;
-  padding: 20px 0; /* Increase padding for more space */
-  position: relative; /* Change from fixed to relative */
+  padding: 2px 0;
+  position: fixed; /* Fixed position */
+  bottom: 0; /* Stick to the bottom */
   width: 100%;
-  margin-top: 20px; /* Ensure there's space between content and footer */
+  margin-top: 2px; /* Adjust margin to prevent overlap */
 }
 
 /* Responsive design */
