@@ -24,7 +24,7 @@ header {
  /* background-color: #3498db;  Light blue */
   color: #fff;
   padding: 100px 0;
-  text-align: center;
+  text-align: right;
   background-image: url("header.jpg");
   background-size: cover;
 }
@@ -35,7 +35,7 @@ header h1 {
 
 /* Navigation styles */
 nav {
-  text-align: center;
+  text-align: right;
   margin-top: 40px 0;
 }
 
