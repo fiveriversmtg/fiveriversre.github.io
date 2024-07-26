@@ -21,6 +21,7 @@ body {
  .instagram-feed {
             padding-top: 20px;
            width: 100%;
+   length: 100%;
             max-width: 1000px;
             margin: 0 auto;
             overflow: hidden;
