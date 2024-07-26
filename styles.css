@@ -23,12 +23,10 @@ body {
 header {
  /* background-color: #3498db;  Light blue */
   color: #fff;
-  text-align: right;
+  padding: 100px 0;
+  text-align: center;
   background-image: url("header.jpg");
   background-size: cover;
-  max-width: 1200px;
-  margin: 0 auto;
-  padding: 60px 0;
 }
 
 header h1 {
@@ -37,7 +35,7 @@ header h1 {
 
 /* Navigation styles */
 nav {
-  text-align: right;
+  text-align: center;
   margin-top: 40px 0;
 }
 
