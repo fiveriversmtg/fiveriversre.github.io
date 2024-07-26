@@ -34,7 +34,7 @@ header {
   padding: 100px 0;
   text-align: right;
   background-image: url("header.jpg");
-  background-size: auto;
+  background-size: width100%, length100%;
 }
 
 header h1 {
