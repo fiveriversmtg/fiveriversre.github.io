@@ -23,14 +23,10 @@ body {
 header {
  /* background-color: #3498db;  Light blue */
   color: #fff;
-  padding: 100px 20px; /* Add right padding */
-  text-align: right; /* Align text to the right */
+  padding: 100px 0;
+  text-align: center;
   background-image: url("header.jpg");
   background-size: cover;
-  display: flex; /* Use flexbox */
-  flex-direction: column; /* Arrange items vertically */
-  align-items: flex-end; /* Align items to the right */
-  height: 300px; /* Set a fixed height if needed */
 }
 
 header h1 {
