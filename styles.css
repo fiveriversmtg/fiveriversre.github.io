@@ -21,6 +21,7 @@ body {
  .instagram-feed {
                padding-top: 20px;
            width: 100%;
+   height; auto;
                max-width: 1000px;
             margin: 0 auto;
             overflow: hidden;
@@ -28,7 +29,7 @@ body {
         }
 .snapwidget-widget {
             width: 100%;
-            height: auto; /* Adjust height to ensure full images are shown */
+            height: 500px; /* Adjust height to ensure full images are shown */
             border: none;
         }
 
