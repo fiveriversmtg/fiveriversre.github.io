@@ -18,6 +18,9 @@ body {
   margin: 0 auto;
   padding: 60px 0;
 }
+ .instagram-feed {
+            padding-top: 20px;
+        }
 
 /* Header styles */
 header {
