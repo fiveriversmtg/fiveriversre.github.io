@@ -66,17 +66,15 @@ main {
 }
 
 /* Footer styles */
-footer {  
+footer {
   background-color: #3498db; /* Light blue */
   color: #fff;
   text-align: center;
-  padding: 2px 0;
-  position: fixed; /* Fixed position */
-  bottom: 0; /* Stick to the bottom */
+  padding: 20px 0; /* Increase padding for more space */
+  position: relative; /* Change from fixed to relative */
   width: 100%;
-  margin-top: 2px; /* Adjust margin to prevent overlap */
+  margin-top: 20px; /* Ensure there's space between content and footer */
 }
-
 /* Responsive design */
 @media (max-width: 768px) {
   nav ul li {
