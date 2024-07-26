@@ -29,7 +29,7 @@ body {
         }
 .snapwidget-widget {
             width: 100%;
-            height: 1100px; /* Adjust height to ensure full images are shown */
+            height: 900px; /* Adjust height to ensure full images are shown */
             border: none;
         }
 
