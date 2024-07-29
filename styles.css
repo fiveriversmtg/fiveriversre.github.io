@@ -44,13 +44,14 @@ header {
 }
 
 header h1 {
-  font-size: 2em;
+  font-size: 3em;
 }
 
 /* Navigation styles */
 nav {
   text-align: center;
   margin-top: 40px 0;
+  font-size: 2em;
 }
 
 nav ul {
